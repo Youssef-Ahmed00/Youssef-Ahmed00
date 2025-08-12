@@ -14,28 +14,45 @@ I focus on writing **clean, efficient, and maintainable** code while continuousl
 ---
 
 ## 📚 Currently Learning
-- **JavaScript (ES6+)** — mastering advanced concepts
-- **React.js** fundamentals (next step: **Next.js**)
-- **Tailwind CSS** for faster and modern styling
-- **Git & GitHub** for version control
+- **JavaScript (ES6+)** — mastering advanced concepts  
+- **React.js** fundamentals *(next step: **Next.js**)*  
+- **Tailwind CSS** for modern styling  
+- **Git & GitHub** for version control  
 
 ---
 
 ## 🎯 Goals for 2025
 - ✅ Master **HTML, CSS, and Bootstrap** *(completed)*  
-- ✅ Build responsive websites using **JavaScript (ES6+)* *(in progress)*  
+- ✅ Build responsive websites using **JavaScript (ES6+)** *(in progress)*  
 - 🎯 Learn and master **React.js** with **Next.js** and **Tailwind CSS**  
 - 🎯 Create **real-world projects** & contribute to **open source**  
 - 🎯 Launch a personal **portfolio website**  
 
 ---
 
-## 🛠️ Tech Stack & Tools
-**Languages & Frameworks**  
-`HTML5` `CSS3` `Bootstrap` `JavaScript (ES6+)` `React.js (Learning)` `Next.js (Soon)` `Tailwind CSS (Soon)`
+## 🛠️ Tech Stack & Tools  
 
-**Tools & Platforms**  
-`Git` `GitHub` `VS Code` `Figma` `Canva`
+### **Languages & Frameworks**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50"/>
+
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>  
+
+
+</p>
 
 ---
 
